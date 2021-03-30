@@ -109,7 +109,7 @@ if(camera.position.x%width===0)
  drawSprites();
  textSize(50)
  stroke(255)
- text("Tower Siege",450,100)
+ text("Drag the hexagonal stone and release it,to launch it towards the blocks",250,100)
 }
 
 function keyPressed ()
